@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-refresher/static/css/main.6551ae92.chunk.css",
+    "main.js": "/react-refresher/static/js/main.bf5dd24a.chunk.js",
+    "main.js.map": "/react-refresher/static/js/main.bf5dd24a.chunk.js.map",
+    "runtime-main.js": "/react-refresher/static/js/runtime-main.1b7e02a9.js",
+    "runtime-main.js.map": "/react-refresher/static/js/runtime-main.1b7e02a9.js.map",
+    "static/js/2.edbf9c7e.chunk.js": "/react-refresher/static/js/2.edbf9c7e.chunk.js",
+    "static/js/2.edbf9c7e.chunk.js.map": "/react-refresher/static/js/2.edbf9c7e.chunk.js.map",
+    "index.html": "/react-refresher/index.html",
+    "precache-manifest.4388945c58d63da16e7ffa3634c45462.js": "/react-refresher/precache-manifest.4388945c58d63da16e7ffa3634c45462.js",
+    "service-worker.js": "/react-refresher/service-worker.js",
+    "static/css/main.6551ae92.chunk.css.map": "/react-refresher/static/css/main.6551ae92.chunk.css.map",
+    "static/js/2.edbf9c7e.chunk.js.LICENSE": "/react-refresher/static/js/2.edbf9c7e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b7e02a9.js",
+    "static/js/2.edbf9c7e.chunk.js",
+    "static/css/main.6551ae92.chunk.css",
+    "static/js/main.bf5dd24a.chunk.js"
+  ]
+}
